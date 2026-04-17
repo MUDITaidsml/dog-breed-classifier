@@ -52,8 +52,9 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Data Formatting
-The code expects your 60-breed dataset to be placed in `data/train/` and `data/val/` using standard Keras folder structures (one folder per class).
+### 3. Dataset Acquisition
+This pipeline was engineered to train on a 60-breed subset of the widely recognized **[Stanford Dogs Dataset](http://vision.stanford.edu/advis/dogs.html)** (frequently hosted on Kaggle). 
+To train from scratch, download the dataset and organize the images into `data/train/` and `data/val/` using the standard Keras format (one sub-folder per breed).
 
 ---
 
