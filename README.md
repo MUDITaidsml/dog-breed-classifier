@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Dataset Acquisition
-This pipeline was engineered to train on a 60-breed subset of the widely recognized **[Stanford Dogs Dataset](http://vision.stanford.edu/advis/dogs.html)** (frequently hosted on Kaggle). 
+This pipeline was engineered to train on a 60-breed subset of the Kaggle **[Dog Breed Identification Dataset](https://www.kaggle.com/c/dog-breed-identification/data)**. 
 To train from scratch, download the dataset and organize the images into `data/train/` and `data/val/` using the standard Keras format (one sub-folder per breed).
 
 ---
