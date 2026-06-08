@@ -3,7 +3,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10%2B-FF6F00.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-Powered-D00000.svg)](https://keras.io/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 > An end-to-end Deep Learning pipeline leveraging **Transfer Learning (ResNet50V2)** to classify 60 distinct dog breeds from raw images, achieving robust real-world generalization.
 
@@ -87,7 +87,4 @@ By utilizing `ReduceLROnPlateau` and aggressive augmentation, the model successf
 
 ---
 
-## 👨‍💻 Author
-**[Your Name]**  
-*Machine Learning Engineer / Data Scientist*  
-[LinkedIn Profile] • [Portfolio/Website]
+
